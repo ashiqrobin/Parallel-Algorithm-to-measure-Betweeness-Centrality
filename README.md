@@ -1,1 +1,1 @@
-# Parallel-Algorithm-to-measure-Betweeness-Centrality
+# Parallel_Algorithm_to_measure_Betweeness_Centrality_Project
